@@ -17,7 +17,7 @@ function NavBar() {
     <header className={`navbar ${scrolled ? 'scrolled': 'not-scrolled'}`}>
       <div className="inner">
         <a href="#hero" className='logo'>
-          Abdur Rahman | AQLIS
+          AQLIS
         </a>
         <nav className='desktop'>
           <ul>
