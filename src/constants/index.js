@@ -218,3 +218,26 @@ export const testimonials = [
     imgPath: "/images/client6.png",
   },
 ];
+
+export const socialImgs = [
+  {
+    name: "insta",
+    imgPath: "/images/insta.png",
+    link: "https://www.instagram.com/abdurrahmanweb_dev?igsh=dnF4dm83OWowZ3ls"
+  },
+  {
+    name: "fb",
+    imgPath: "/images/fb.png",
+    link: "https://www.facebook.com/share/1BpwYp6huq/"
+
+  },
+  // {
+  //   name: "x",
+  //   imgPath: "/images/x.png",
+  // },
+  {
+    name: "linkedin",
+    imgPath: "/images/linkedin.png",
+    link: "https://www.linkedin.com/in/abdur-rahman-932887275/"
+  },
+];
