@@ -35,7 +35,7 @@ export const navLinks = [
   },
   {
     name: 'Blog',
-    link: 'https://www.blogger.com',
+    link: 'https://aqlistech.blogspot.com/',
     target: '_blank'
   },
 ]
